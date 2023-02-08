@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #!/bin/bash\nrm -r /tmp/my_first_directory
 #!/bin/bash \nrm -r /tmp/my_first_directory
 #!/bin/bash\n rm -r /tmp/my_first_directory
 #!/bin/bash\nrm -r/tmp/my_first_directory
+=======
+#!/bin/bash
+rm -r /tmp/my_first_directory
+>>>>>>> 1601a12f9b63e321921da0822443f20d5721b260
